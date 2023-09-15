@@ -1,3 +1,4 @@
 llm-hands-on
 .chainlit
 __pycache__
+.env
