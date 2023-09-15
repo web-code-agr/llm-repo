@@ -1,6 +1,6 @@
 This is a repository for hands-on LLM. Please follow below steps to set up the environment and run the chatbot.
 
-Architecture for Document_qa bot
+###Architecture for Document_qa bot
 <img src="/readme-static-files/document_qa.png" alt="document_qa_architecture image"/>
 
 Step 1: Create virtual environment
